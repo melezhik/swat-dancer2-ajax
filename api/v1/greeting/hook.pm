@@ -1,4 +1,4 @@
-use swat:app;
+use swat::app;
 start_app();
 1;
 
