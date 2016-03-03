@@ -4,7 +4,7 @@
 
 # Acknowledgements
 
-Based on Gabor Szabo [paper][http://perlmaven.com/ajax-and-dancer2], thanks!
+Based on Gabor Szabo [paper](http://perlmaven.com/ajax-and-dancer2) thanks!
 
 # INSTALL
 
